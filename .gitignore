@@ -1,4 +1,5 @@
 .secret.txt
 secret.txt
 .notebook\data.csv
+data.csv
 venv
